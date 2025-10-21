@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    gap: 8px;
+}
+.container *{
+    flex: 1;
+    margin: 5px;
+}
+.container img{
+    /* height: 195px; */
+    /* width: 90%; */
+    height: 100%;
+}
+.topic>h2{
+    margin-bottom: 2vh;
+    margin-top: 1vh;
+    margin-left: 7px;
+}
+.container div{
+    display: grid;
+    grid-template-rows: 270px 1fr 3fr;
+    width: 215px;
+    transition: 0.3s;
+    height: 481px;
+    justify-items: center;
+}
+.container div:hover{
+    cursor: pointer;
+    width: 230px;
+    .container{
+        gap:13px;
+    }
+    /* border: 2px solid rgba(0,0,0,0.2); */
+}
+.container h3{
+    /* justify-items: center; */
+    text-align: center;
+    margin-top: 1vh;
+}
+.container p{
+    text-align: center;
+}
