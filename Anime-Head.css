@@ -7,9 +7,10 @@ h1,h2,h3,h4,h5,h6{
     color: goldenrod;
 }
 body{
-    height: 200vh;
+    padding-bottom: 50px;
     background-color: rgb(53, 51, 51);
-    padding-top: 55px;
+    padding-top: 52px;
+    padding-left: 10px;
     color: burlywood;
     scroll-behavior: smooth;
 }

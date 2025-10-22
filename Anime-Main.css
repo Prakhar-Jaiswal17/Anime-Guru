@@ -10,6 +10,7 @@
     /* height: 195px; */
     /* width: 90%; */
     height: 100%;
+    /* margin-bottom: 10px; */
 }
 .topic>h2{
     margin-bottom: 2vh;
@@ -23,19 +24,17 @@
     transition: 0.3s;
     height: 481px;
     justify-items: center;
+    /* gap: 5px; */
 }
 .container div:hover{
     cursor: pointer;
-    width: 230px;
-    .container{
-        gap:13px;
-    }
+    width: 300px;
     /* border: 2px solid rgba(0,0,0,0.2); */
 }
 .container h3{
     /* justify-items: center; */
     text-align: center;
-    margin-top: 1vh;
+    margin-top: 3vh;
 }
 .container p{
     text-align: center;
