@@ -98,9 +98,19 @@ nav>div:nth-of-type(1)>*{
     flex: 1;
     padding-top: 7px;
 }
-nav>h1{
+nav>a:nth-of-type(1):hover{
+    text-decoration: none;
+}
+nav>a:nth-of-type(1){
     flex: 0.5;
+}
+nav>a>h1{
     color: gold;
+    transition: 0.3s;
+    padding-top: 2%;
+}
+nav>a>h1:hover{
+    color: yellow;
 }
 select{
     border: none;
