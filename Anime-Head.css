@@ -20,6 +20,7 @@ body{
 nav{
     padding: 5px;
     position: fixed;
+    height: 50px;
     top: 0;
     left: 0;
     right: 0;
@@ -29,6 +30,7 @@ nav{
     flex-direction: row;
     gap: 10px;
     background-color: rgba(33, 33, 33, 0.94);
+    z-index: 2;
     /* vertical-align: top; */
 }
 nav input[type="search"]{
@@ -78,6 +80,7 @@ nav>*{
     /* height: 40px; */
     /* width: 48%; */
     width: 6vw;
+    background-image: linear-gradient(to left, yellow,gold, goldenrod);
 }
 .sign:active{
     background-color:goldenrod;
