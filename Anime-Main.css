@@ -7,21 +7,17 @@
     margin: 5px;
 }
 .container img{
-    /* height: 195px; */
-    /* width: 90%; */
     height: 100%;
-    /* margin-bottom: 10px; */
 }
 .topic>h2{
-    margin-bottom: 2vh;
-    margin-top: 1vh;
-    margin-left: 7px;
+    padding: 2vh 0 1.5vh 3vh;
+    color: yellow;
 }
 .container div{
     display: grid;
     grid-template-rows: 270px 1fr 3fr;
     width: 215px;
-    transition: 0.4s;
+    transition: 0.55s;
     height: 481px;
     justify-items: center;
     /* gap: 5px; */
@@ -29,10 +25,8 @@
 .container div:hover{
     cursor: pointer;
     width: 300px;
-    /* border: 2px solid rgba(0,0,0,0.2); */
 }
 .container h3{
-    /* justify-items: center; */
     text-align: center;
     margin-top: 3vh;
 }
