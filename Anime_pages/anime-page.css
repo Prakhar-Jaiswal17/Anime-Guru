@@ -36,3 +36,11 @@ section p>span{
     font-weight: bold;
     color: rgb(224, 222, 70);
 }
+section>div:nth-of-type(2)>p{
+    line-height: 1.7rem;
+    font-size: 1.1rem;
+}
+section>div:nth-of-type(2)>h3{
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
