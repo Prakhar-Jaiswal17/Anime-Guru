@@ -14,9 +14,6 @@ Anime Guru is a website that helps its users discover anime to watch. It is easy
 ## ✨ Features
 - User-friendly and responsive design
 - Recommendations based on genre and tags
-- Search functionality for anime titles
-- Fast loading site hosted on Vercel
-
-## 🚀 Getting Started
-
-### Clone this repository
+- Separate pages for each anime
+- IMDB Ratings and information about each anime
+- Trailers of each anime
