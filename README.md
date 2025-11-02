@@ -1,24 +1,19 @@
 # Anime Guru 🎌
-
-An anime recommendation website built as a college project, designed to help users discover new anime titles based on their preferences.
+An anime recommendation site made for my college project.
 
 ## 🌐 Live Demo
-Visit the deployed version here: [Anime Guru](https://anime-guru-six.vercel.app)
+Go to : [Anime Guru](https://anime-guru-six.vercel.app) to visit the live deployed version of the website
 
 ## 📖 About
-Anime Guru is a website that suggests animes based on the user's preferences. It is a user fiendly site(easy to navigate through and use).
+Anime Guru is a website that helps its users discover anime to watch. It is easy to use and can be used by someone who is new to anime. It is easy to navigate through.
 
 ## ⚙️ Tech Stack
 - HTML
 - CSS
-- Deployed on **Vercel**
 
 ## ✨ Features
 - User-friendly and responsive design
 - Recommendations based on genre and tags
-- Search functionality for anime titles
-- Fast loading site hosted on Vercel
-
-## 🚀 Getting Started
-
-### Clone this repository
+- Seperate webpages of every anime
+- Trailers of each anime
+- IMDB ratings and information about each anime
