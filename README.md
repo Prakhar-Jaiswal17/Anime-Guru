@@ -18,7 +18,3 @@ Anime Guru is a website that suggests animes based on the user's preferences. It
 - Recommendations based on genre and tags
 - Search functionality for anime titles
 - Fast loading site hosted on Vercel
-
-## 🚀 Getting Started
-
-### Clone this repository
