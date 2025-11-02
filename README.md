@@ -11,9 +11,9 @@ Anime Guru is a website that helps its users discover anime to watch. It is easy
 - HTML
 - CSS
 
+
 ## ✨ Features
 - User-friendly and responsive design
-- Recommendations based on genre and tags
 - Separate pages for each anime
 - IMDB Ratings and information about each anime
 - Trailers of each anime
