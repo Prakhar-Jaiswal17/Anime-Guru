@@ -15,6 +15,9 @@ body{
     padding-top: 52px;
     padding-left: 10px;
     color: burlywood;
+    font-family: "Fira Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 200;
 }
 *::selection{
     background-color: teal;
