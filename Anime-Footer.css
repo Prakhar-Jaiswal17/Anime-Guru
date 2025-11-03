@@ -33,10 +33,6 @@
     margin-right: 5px;
     transform: 0.3s;
 }
-#footer>.div2>a:nth-of-type(1)::before:hover{
-    /* background-color: gold; */
-    content: url(Images/Gold\ LinkedIn.svg);
-}
 #footer>.div2>*{
     margin-bottom: 15px;
 }
@@ -48,5 +44,5 @@
     transition: 0.3s;
 }
 #footer>.div2>a:hover{
-    color: goldenrod;
+    color: rgb(162, 121, 16);
 }
