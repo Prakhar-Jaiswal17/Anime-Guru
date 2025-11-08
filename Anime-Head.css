@@ -18,6 +18,8 @@ body{
     font-family: "Fira Sans", sans-serif;
     font-size: 15px;
     font-weight: 200;
+    max-width: 1700px;
+    margin: auto;
 }
 *::selection{
     background-color: teal;
@@ -36,13 +38,15 @@ nav{
     gap: 10px;
     background-color: rgba(33, 33, 33, 0.94);
     z-index: 2;
+    max-width: 1700px;
+    margin: auto;
     /* vertical-align: top; */
 }
 nav input[type="search"]{
     /* max-width: 30vw; */
     height: 36px;
     width: 100%;
-    min-width: 15vw;
+    min-width: 10vw;
     text-align: center;
     background-color: rgb(33, 33, 33);
     border: 1px solid burlywood;
