@@ -51,6 +51,7 @@ section>div:nth-of-type(2)>p{
     overflow: scroll;
     height: 35vh;
 }
+
 @media only screen and (max-width: 500px){
     #user>a:nth-of-type(1),#user>a:nth-of-type(1)>button{
         width: 0;
@@ -59,21 +60,12 @@ section>div:nth-of-type(2)>p{
     nav{
         align-items: center;
     }
-    .container div{
-        margin: auto;
-    }
     nav h1{
         font-size: 20px;
-
-        /* vertical-align: middle; */
-    }
-    #footer>.div1{
-        margin: 15px 0 0 10px;
-        /* margin-left: 5px; */
-        flex: 2;
     }
 }
-@media only screen and (max-width: 1000px) {
+
+@media only screen and (max-width: 1024px) {
     nav>div:nth-of-type(1) *{
         color: transparent;
         background-color: transparent;
@@ -90,13 +82,10 @@ section>div:nth-of-type(2)>p{
         right: 0;
         left: 0;
     }
-    .container{
-        flex-wrap: wrap;
-    }
-    .container div:hover{
-        width: auto;
-    }
     .sign{
         width: 8vw;
+    }
+    section img{
+        margin-right: 15px;
     }
 }
