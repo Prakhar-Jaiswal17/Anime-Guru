@@ -40,6 +40,9 @@
     .container{
         flex-wrap: wrap;
     }
+    .container div{
+        margin: auto;
+    }
     .container div:hover{
         width: auto;
     }
